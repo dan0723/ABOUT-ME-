@@ -12,13 +12,23 @@
 # Skills
 
 -Excel
+
 -Microsoft Office
+
 -Server
+
 -Busser
+
 -IT Management
+
 -Dropbox
+
 -Communication
+
 -Volunteer management
+
 -Powerpoint
+
 -Computer Imaging
+
 -Waiter

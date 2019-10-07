@@ -22,3 +22,10 @@
 - Powerpoint
 - Computer Imaging
 - Waiter
+
+# Hobbies
+
+- League of Legends
+- Travel
+- Music
+- Sleep

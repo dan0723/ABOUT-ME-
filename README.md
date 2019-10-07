@@ -33,14 +33,14 @@
 # Places I have traveled to
 
 - [Massachusetts](https://www.mass.gov/)
-- Vietnam 
-- New york
-- New Jersey
-- New Hampshire 
-- Pennsylvania
-- Canada
-- Vermont
-- Rhode Island
-- Maine
+- [Vietnam](https://vietnam.travel/home)
+- [New york](https://www.nycgo.com/)
+- [New Jersey](https://nj.gov/)
+- [New Hampshire](https://www.visitnh.gov/) 
+- [Pennsylvania](https://www.pa.gov/)
+- [Canada](https://www.canada.ca/en.html)
+- [Vermont](https://www.vermont.gov/)
+- [Rhode Island](https://www.ri.gov/)
+- [Maine](https://visitmaine.com/)
 
    ETC

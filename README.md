@@ -42,4 +42,4 @@
 - Vermont
 - Rhode Island
 - Maine
-~~~ETC~~~
+   ETC

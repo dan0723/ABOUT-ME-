@@ -29,3 +29,17 @@
 - Travel
 - Music
 - Sleep
+
+# Places I have traveled to
+
+- Massachusetts
+- Vietnam 
+- New york
+- New Jersey
+- New Hampshire 
+- Pennsylvania
+- Canada
+- Vermont
+- Rhode Island
+- Maine
+~~~ETC~~~

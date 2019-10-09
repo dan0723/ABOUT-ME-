@@ -20,15 +20,15 @@
 - [Communication](https://www.skillsyouneed.com/ips/what-is-communication.html)
 - [Volunteer management](https://www.volunteerhub.com/blog/effective-volunteer-management-process/)
 - [Powerpoint](https://login.microsoftonline.com/common/oauth2/authorize?response_mode=form_post&response_type=id_token&scope=openid&msafed=0&nonce=e33f993d-829b-46a1-97ad-e71e7ea6d7a4.637060548197018013&state=https%3a%2f%2foffice.live.com%2fstart%2fPowerPoint.aspx%3fs%3d4%26auth%3d2%26nf%3d1&client_id=4b233688-031c-404b-9a80-a4f3f2351f90&redirect_uri=https%3a%2f%2foffice.live.com%2fstart%2fauth%2fsignin&login_hint=211755%40bpsma.org)
-- [Computer Imaging]
-- [Waiter]
+- [Computer Imaging](https://www.webopedia.com/TERM/C/computer_imaging.html)
+- [Waiter](https://m.snagajob.com/job-descriptions/waiter-waitress/)
 
 # Hobbies
 
-- League of Legends
-- Travel
-- Music
-- Sleep
+- [League of Legends](Leagueoflegends.com)
+- [Travel](https://www.travelocity.com/Vacation-Packages?SEMCID=TRAVELOCITY-US.UB.GOOGLE.GT-c-EN.EPACKAGE&&SEMDTL=a1190321540.b19452483500.r19bf3ad25ca4a39701a13a2508cf34aef1e279dc7c50f4336d03be42d107900b7.d1305869804475.e1c.f11t1.g1kwd-14915580.h1e.i1.j19002030.k1.l1g.m1.n1&gclid=Cj0KCQjwivbsBRDsARIsADyISJ8s3rlloOUSxhIrJAgZSqFRhMqWerJix7OAEZJ-97FCzFZbFyivVOQaAjVYEALw_wcB&gclsrc=aw.ds)
+- [Music](youtube.com)
+- [Sleep](https://www.nightairbeds.com/)
 
 # Places I have traveled to
 

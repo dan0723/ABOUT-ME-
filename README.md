@@ -5,6 +5,7 @@
  **ATTENDING BHS:** 2017 - 2020
  
  **ATTENDING UMASS BOSTON to MIT:** 2019 - 2023
+ (Night classes for credits)
  
 ![image](./image0.jpeg)
 
